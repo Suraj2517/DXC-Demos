@@ -30,7 +30,7 @@ if (per > 50)
     Console.WriteLine("Your grade is B");
     else if (per >= 60 && per <= 79) 
     Console.WriteLine("Your grade is C");
-    else if (per >=50 && per <= 59) 
+    else if (per >50 && per <= 59) 
     Console.WriteLine("Your grade is D");
     Console.WriteLine("Your result for the exam is Pass");
 }
