@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVehiculo_Interface", "IVehiculo_Interface\IVehiculo_Interface.csproj", "{2946EBDA-0108-4BA7-AF55-5BB15942E40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2946EBDA-0108-4BA7-AF55-5BB15942E40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2946EBDA-0108-4BA7-AF55-5BB15942E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2946EBDA-0108-4BA7-AF55-5BB15942E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2946EBDA-0108-4BA7-AF55-5BB15942E40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096F84F5-6FF9-44C5-87B4-A4FA20419CF3}
+	EndGlobalSection
+EndGlobal
